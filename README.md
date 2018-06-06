@@ -1,2 +1,2 @@
 # CS-200
-# All projects were made in python 3 for my CS intro course.
+# All of the projects were made in Python 3 for my intro to CS course.
